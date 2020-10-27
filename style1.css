@@ -1,0 +1,116 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+header
+{
+    position: fixed;
+    width:100%;
+    height:60px;
+    background: #D30000;
+}
+.name
+{
+    float:left;
+    margin-left:5%;
+    color:white;
+}
+nav
+{
+    float:right;
+    margin-right: 
+}
+nav li
+{
+    display: inline;
+    padding:10px;
+}
+nav li a.active,
+nav li a
+{
+    color:white;
+    text-decoration: none;
+    font-size: 25px;
+}
+nav li a:hover
+{
+    color:yellow;
+    font-weight: bold;
+    text-decoration: underline;
+}
+img
+{
+    width: 100%;
+}
+section
+{
+    margin:5%;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+b
+{
+    padding: 10px;
+    background:#D30000;
+    color: white;
+}
+.offer
+{
+    background-color:#AAFFF7;
+    padding: 5px;
+}
+button
+{
+    background-color:#FF0000;
+    padding: 10px;
+    border:none;
+    border-radius: 10px;
+}
+button:hover
+{
+    background-color: yellow;
+    color:#000A9B;
+    font-size: 20px;
+}
+.photos img
+{
+    background: white;
+    float:left;
+    width: 290px;
+    height: 320px;
+    padding: 5px;
+    
+}
+footer
+{
+    background-color: black;
+    color:white;
+   
+    text-align: center;
+    font-size: 20px;
+    padding:30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
